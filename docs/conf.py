@@ -16,8 +16,8 @@ author = u"Jade Bouchard"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx.ext.myst_nb",
-    "sphinx.ext.autoapi.extension",
+    "myst_nb",
+    "autoapi.extension",
     "sphinx.ext.napoleon",
     "sphinx.ext.viewcode",
 ]
