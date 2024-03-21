@@ -1800,7 +1800,7 @@ name = "myst-nb"
 version = "1.0.0"
 description = "A Jupyter Notebook Sphinx reader built on top of the MyST markdown parser."
 optional = false
-python-versions = ">=3.9"
+python-versions = "^3.9"
 files = [
     {file = "myst_nb-1.0.0-py3-none-any.whl", hash = "sha256:ee8febc6dd7d9e32bede0c66a9b962b2e2fdab697428ee9fbfd4919d82380911"},
     {file = "myst_nb-1.0.0.tar.gz", hash = "sha256:9077e42a1c6b441ea55078506f83555dda5d6c816ef4930841d71d239e3e0c5e"},
@@ -3389,4 +3389,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9"
-content-hash = "e938a89604f9f6a0599d96022bdadf2692d623503bf872b4196208eb03c35c19"
+content-hash = "44bf527333e4063367b6eda8a13b25c24025a99c4c9ce6eb6d551dc6af0a48b7"
