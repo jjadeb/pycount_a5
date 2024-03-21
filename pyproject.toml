@@ -9,6 +9,8 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.9"
 matplotlib = ">=3.8.3"
+docutils = "^0.20.1"
+myst-nb = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
