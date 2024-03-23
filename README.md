@@ -5,17 +5,17 @@ Assignment 5 for UBC's DSCI310 course. Creating a toy python package.
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycount_a5
 ```
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycount_a5` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycount_a5.pycount_a5 import count_words
+from pycount_a5.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
